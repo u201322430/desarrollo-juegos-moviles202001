@@ -1,0 +1,8 @@
+
+
+
+Guardar cambios
+Ctrl+c :wq
+
+No guardar cambios
+Ctrl+c :q!
